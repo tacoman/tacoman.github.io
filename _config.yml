@@ -24,13 +24,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://duchyoftaco.net" # the base hostname & protocol for your site, e.g. http://example.com
 social:
   twitter: tacoman_ngs
-  github:  tacoman
+  #github:  tacoman
+  linkedin: samshrum
 
 # Build settings
 markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+future: true
 
 #permalink: /:year/:month/:title/index.html
 
