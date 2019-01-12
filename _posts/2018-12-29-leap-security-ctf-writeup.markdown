@@ -190,7 +190,7 @@ that's a project for another day.
 
 In the end we scored 3 out of 5 flags. Flag 2 was gained in parallel by multiple individuals; I found
 flag 3 relatively quickly; flag 4 was a team effort. [@nullspace](https://twitter.com/nullspace) and
-@Gibby from #misec were on-site with me, in addition to @picat's aforementioned help.
+[@GibsonControls](https://twitter.com/gibsoncontrols) from #misec were on-site with me, in addition to @picat's aforementioned help.
 I really enjoyed the experience of this CTF; I needed the confidence boost from the flags I got to
 show me that I could do better than my lackluster performance at RuCTFE, and I'm already looking forward
 to the next team-based event.
