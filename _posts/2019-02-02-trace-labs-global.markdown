@@ -20,7 +20,7 @@ getting family members' phone numbers so I could alert them- it's one of those s
 who's wielding it.
 
 So learning more OSINT techniques was on the "eventually" list- right after I burned myself out with all the other areas of InfoSec that
-I'd reignited my interest in over the past year, probably. Then someone dropped the news that [Trace Labs](tracelabs.org) was running
+I'd reignited my interest in over the past year, probably. Then someone dropped the news that [Trace Labs](https://tracelabs.org) was running
 an OSINT CTF in search of missing persons. With nothing else on the CTF schedule yet and with an amazingly good cause on the line,
 I decided to set down the reverse engineering books and get prepared for a new kind of challenge.
 
