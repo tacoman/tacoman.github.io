@@ -20,7 +20,7 @@ getting family members' phone numbers so I could alert them- it's one of those s
 who's wielding it.
 
 So learning more OSINT techniques was on the "eventually" list- right after I burned myself out with all the other areas of InfoSec that
-I'd reignited my interest in over the past year, probably. Then someone dropped the news that [tracelabs.org](Trace Labs) was running
+I'd reignited my interest in over the past year, probably. Then someone dropped the news that [Trace Labs](tracelabs.org) was running
 an OSINT CTF in search of missing persons. With nothing else on the CTF schedule yet and with an amazingly good cause on the line,
 I decided to set down the reverse engineering books and get prepared for a new kind of challenge.
 
@@ -42,7 +42,7 @@ there isn't a problem with people breaking them- then everyone benefits.
 # RTFM
 
 I knew I needed more structure in my learning if I was going to dive into this on the few weeks' notice we had. I picked up a copy of
-Michael Bazzell's _[https://www.amazon.com/gp/product/1984201573/ref=dbs_a_def_rwt_bibl_vppi_i0](Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information)_ and scanned through it- not reading it deeply cover to cover, but giving myself a high-level overview so that
+Michael Bazzell's _[Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information](https://www.amazon.com/gp/product/1984201573/ref=dbs_a_def_rwt_bibl_vppi_i0)_ and scanned through it- not reading it deeply cover to cover, but giving myself a high-level overview so that
 I knew what was possible and could return to it for specific techniques later. This preparation happened concurrently with several other side-projects;
 I don't mean to spoil the ending of this post, but it showed.
 
@@ -55,7 +55,7 @@ ahead of time and procrastinated on making the burners. How hard could it be to 
 I'm not going to write a full review of the book, but it's very good. It combines basic tenets of tradecraft with a rich library of
 resources to search for information and techniques to get the most out of them. Bazzell demonstrates how to write very particular searches
 for different sites, has written automated pages on his websites to help do the dirty work, and gives a quick overview of tools
-like [https://bitbucket.org/LaNMaSteR53/recon-ng](Recon-ng). If you're interested in the subject, I highly recommend it.
+like [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng). If you're interested in the subject, I highly recommend it.
 
 # Falling flat
 
@@ -100,7 +100,7 @@ be more cooperative.
 <jtrevner> You’ll have no problem find stuff on me
 ```
 
-My partner for this CTF was [https://www.jtrevner.com/](J.T. Revner), who joined #misec shortly after I did. He's one of the most OPSEC
+My partner for this CTF was [J.T. Revner](https://www.jtrevner.com/), who joined #misec shortly after I did. He's one of the most OPSEC
 focused members of the group that actually shows up to meetings in person. For him to directly suggest this was a surprising indicator
 of the level of trust he'd already chosen to place in me to not do anything malicious. J.T. was also investing in Bazzell's other book,
 which was all about scrubbing signs of yourself and reducing your exposure to OPSEC efforts. So as frustration mounted with our inability

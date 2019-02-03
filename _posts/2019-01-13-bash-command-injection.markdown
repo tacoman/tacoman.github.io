@@ -78,7 +78,7 @@ we can inject `; ./runtoanswer` to get a prompt that asks for the first name. Gi
 
 # Conclusion
 
-If you absolutely *must* run shell commands based on user input for some reason, [http://mywiki.wooledge.org/BashFAQ/050](this guide) 
+If you absolutely *must* run shell commands based on user input for some reason, [this guide](http://mywiki.wooledge.org/BashFAQ/050) 
 includes some better ways to build your commands so that they can't be broken so easily in bash. Solving the Powershell side of the challenge
 (both on attack and defense) is left as an exercise for the reader. This was a fun exercise; I'm hoping there aren't too many systems in the wild
 that are building shell commands off of arbitrary user input, but just typing that out is enough to make one realize it must be happening all over
