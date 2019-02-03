@@ -26,14 +26,14 @@ I decided to set down the reverse engineering books and get prepared for a new k
 
 # Restricted Engagement
 
-The rules for the CTF imposed more limits than any of my past experience. Everything had to be truly _open_- you had to include a URL
+The rules for the CTF imposed more limits than any of my past info hunting experience. Everything had to be truly _open_- you had to include a URL
 for verification. There was zero tolerance for contacting any friends or family of the missing people and asking questions. This all makes
 perfect sense- a flood of helpful hackers interrogating people is not only disturbing and going to increase the heartache of the families involved,
-it could even spook any kidnappers if they get messaged. Also, law enforcement is already involved in all of these cases- Trace Labs
-sends all data to law enforcement to help them with their hunt. No need to repeat what the professionals have done in that area.
+it could even spook any kidnappers into rash action if they get messaged. Also, law enforcement is already involved in all of these cases- Trace Labs
+sends all data to law enforcement to help them with their hunt. No sense in repeating what the professionals have done in terms of interviews.
 
-So if professionals are involved, what do they need us for? Well, not all law enforcement has the training or staffing to gather the kinds
-of data that top CTF players might have the knowledge to find. Combine that with the effects of many minds going in different directions and
+So if professionals are involved, what do they need us for? Not all law enforcement has the training or staffing to gather the kinds
+of data that CTF players might have the knowledge to find. Combine that with the effects of many minds going in different directions and
 the hope is that we'll be able to find those few extra clues that will help the police close the case out. From the perspective of the CTF
 players, it provides a platform for training OSINT skills- and Trace Labs also steers people towards training materials while working on their own courses.
 Playing with a team allows people to learn together, like any other CTF. So long as everyone's playing within the rules- and so far as I know,
@@ -60,15 +60,15 @@ like [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng). If you're intereste
 # Falling flat
 
 After some initial confusion about logistics and who was available, we decided to run the game remotely over Slack. This didn't kill
-all collaboration, but it did remove a certain sense of energy and added a little bit of friction at our experience level. A couple hours the
+all collaboration, but it did remove a certain sense of energy and added a little bit of friction at our experience level. A couple hours before the
 game started I registered my burner social media profiles. Instagram accepted me readily and without question, thankfully. Twitter and
 Facebook decided within an hour that I was "suspicious"- which appears to be their way of saying that I hadn't provided enough information.
 But I could get them off my back by simply providing headshots, phone nummbers, and all the other kind of identifying information that I didn't
 really want to assign to an account meant to evaporate at the end of the day. Twitter did this all on its own- Facebook displayed the message
 when I tried to login later with Tor. Whether it would have flagged me regardless of this I'm not sure- and while I'd heard before that Tor
-logins can trigger many sites, I simply hadn't thought of it when I opened the browser.
+logins can trigger many sites, I simply hadn't thought of it when I opened Tor to test it out.
 
-So the game started with our ability to scout information from social media being severely hampered. The format involved 8 missing people
+So the game started with our ability to retrieve information from social media being severely hampered. The format involved 8 missing people
 being listed from various countries, with different point values assigned for pieces of information ranging from their home address all the way
 up to clues about their current location. Data found on a law enforcement site was worth zero points since they already had the information.
 
@@ -78,7 +78,7 @@ very bad at this. I was effectively inside the perimeter in those previous cases
 to their contacts and mine, and so on. Trying to locate a complete stranger is another thing- and even when you do find their home address,
 that's still a relatively low-valued flag. (If they were at home, they'd probably also not be missing.)
 
-So I'm not going to go into deep detail about the individual flags like I did in previous cases. Even if I'd laid out brilliant cases that found
+So I'm not going to go into deep detail about the individual flags like I did in previous CTF posts. Even if I'd laid out brilliant cases that found
 these people, it would be insanely irresponsible to just publish it online the same day. What I can say is that we did successfully find social
 media profiles through some quick digging. In a few cases we found home addresses. But trying to take those usernames and find other usages of them
 came to little. Digging deeper into social media profiles was generally impossible with our burners locked out. And while I used many of Bazzell's
@@ -87,7 +87,7 @@ tools to keep digging, I struck out more than I succeeded.
 Some of this was inexperience with using the tools effectively; some of it might have been not enough persistence.
 With many CTFs, you know there's an answer and you can come back and hit it harder after a few minutes. With this one, there's no guarantee
 of finding any answers at all. The scoreboard made it very obvious that we were missing things, but our answer was frequently to move on
-and see if there were any lower-hanging fruit on the next target rather than stick it out with the current one. But with six hours and eight
+and see if there was any lower-hanging fruit on the next target rather than stick it out with the current one. But with six hours and eight
 contestants, it was too easy for our team of only two people to decide that we needed to cut our losses and hope that the next one would
 be more cooperative.
 
@@ -107,15 +107,15 @@ which was all about scrubbing signs of yourself and reducing your exposure to OP
 to find actual missing persons, I took on the challenge of finding information leaks on him instead.
 
 He gave me a list of existing handles, emails, and even his real name(!), and I went to see what I could find. And honestly, I didn't have
-to go as far as you might think to make him uncomfortable with what was out there. (And yes, he's getting to vet this post and redact this
-section before publication- just because it's OSINT doesn't mean we have to intentionally call any of this out.)
+to go as far as you might think to make him uncomfortable with what was out there. (And yes, he's got to vet this post and redact this
+section before publication. Just because it's OSINT doesn't mean I'm going to freely republish against someone's will.)
 
 * A dotfiles repo that leaked both his platform of choice and an employer
 * A few political social media interactions from other users directed at an otherwise inactive account
 * Reddit showed up, but the post in the preview was conspicuously missing. He confirmed that this had been due to a recently deleted
 account, but the search engine hadn't caught up yet.
 * LinkedIn provided a giveaway on his true identity.
-* archive.org 
+* archive.org gave away some extra info on his past doings.
 
 ```
 <jtrevner> Depending on how this goes I might have to kill this name IDK
