@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dynamic Taint Analysis: Further Reading"
-date:   2018-4-12 17:00:00 -0500
+date:   2018-4-11 17:00:00 -0500
 categories: 
 ---
 
