@@ -7,7 +7,7 @@ categories:
 
 *This is an archived version of a post at DCTID.com. [https://dctid.com/2019/06/the-state-of-the-streams/](Click here) for the up to date guide.*
 
-Since I started supporting Detroit City FC, matchday streams have been one of the best examples of the club and supporters both working to provide a great experience. Home games have been broadcast by the team with a full crew, while supporters like Nick Miko would travel to away days and provide his own homebrewed feed at fields where our opponents weren't handling the job. This has even included some pretty entertaining [https://www.youtube.com/watch?v=JUDBy1fvH_M](full commentary). Some times a stream would break down and we'd be reduced to refreshing Twitter for updates- the dreaded "twatch party". ("Professional" organizations fell victim to this more often than a Miko feed. Just saying.)
+Since I started supporting Detroit City FC, matchday streams have been one of the best examples of the club and supporters both working to provide a great experience. Home games have been broadcast by the team with a full crew, while supporters like Nick Miko would travel to away days and provide his own homebrewed feed at fields where our opponents weren't handling the job. This has even included some pretty entertaining [full commentary](https://www.youtube.com/watch?v=JUDBy1fvH_M). Some times a stream would break down and we'd be reduced to refreshing Twitter for updates- the dreaded "twatch party". ("Professional" organizations fell victim to this more often than a Miko feed. Just saying.)
 
 2019 has been an interesting year for streaming. The NPSL has established an official streaming partner in MyCujoo. In theory it's a good move- the question of whether you should look on Facebook, Youtube, a club's website, or somewhere else entirely for a stream goes away, so long as that team is streaming at all. A consistent interface no matter who's home field you're on should be a step forward.
 
@@ -19,7 +19,7 @@ I got to learn about this after coming home from a weekend-long trip while tryin
 
 *One Time Only*:
 
-* Install the browser extension Video DownloadHelper. [https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk?hl=en-US](Chrome) / [https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/](Firefox)
+* Install the browser extension Video DownloadHelper. [Chrome](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk?hl=en-US) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)
 * Install VLC
 
 *Starting a Stream*:
