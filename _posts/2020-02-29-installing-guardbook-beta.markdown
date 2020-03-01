@@ -20,6 +20,9 @@ As you may know from my Twitter, push notifications are one of the biggest stres
 the bugs, there are new features coming which will include more changes to push in the year ahead. You may periodically receive a cluster of notifications
 as we test these out- please let us know that you received them. (We'll also send a push to beta when we have new features that we want you to try out.)
 
+Also, the beta server "sleeps" a lot because we're running it for free. If you open the app and it seems like there's nothing there, you probably just
+woke up the server- restart the beta after a few seconds and things should show up.
+
 The goal with the beta program is to give new features a week of testing with zero unresolved bugs before we push the same version to the rest of NGS.
 We want people to be able to take their time with trying to push the program to its limits rather than feeling like they need to do a quick rush job.
 
