@@ -33,11 +33,15 @@ The day I was able to buy a loose Golden Sun cartridge and just pop it into my G
 Full sword and sorcery, end of the world stuff, and nobody over my shoulder on a big screen to remark on how a succubus
 is actually a demon from folklore and that this game is a Japanese plot to make me lose my faith in Christianity.
 
+![Phantasy Star Online](/assets/images/ps1/pso1.png)
+
 It was in this environment and timeframe that my friend got a copy of Phantasy Star Online for the
 Gamecube. PSO was everything I wanted and couldn't have in a game. It was an action RPG, which meant my reflexes
 mattered and not just an endless repetition of menus. Fantasy trappings and monsters, but you're a sci-fi soldier with
 laser guns and lightsabers- sorry, _photon sabers_. And you could play online with other people! He had bought a broadband
 adapter and a controller that was five times wider than it should have been on account of the giant keyboard in the middle.
+
+![The Gamecube Keyboard](/assets/images/ps1/gcn-keyboard.png)
 
 It was never going to work. We had dial-up. I couldn't possibly afford to pay the cost of 3 games in order to buy the full
 PSO experience. My parents didn't want me to play games online with strangers. I'd just be stuck playing offline mode all the time. 
@@ -65,6 +69,8 @@ It's hard to really appreciate in 2020 how much the first game was different fro
 to its protagonist, honestly. But we're so far removed from that old context of what the technology could do, or how most RPG plots worked, that
 you really need to unpack it all bit by bit to understand what made Phantasy Star worth talking about.
 
+![Samus](/assets/images/ps1/samus.png)
+
 First, we need to talk about Alis (or Alisa, in Japan). Women simply weren't the main hero in a game like this, and never like her. RPGs were dominated
 by generic male protagonists that you were meant to project yourself onto. Metroid, released a year earlier, is often hailed as progressive for having
 a female heroine. But was it _really_? It wasn't committed to this at all! The American manual referred to Samus as a "he", and in a gender-neutral
@@ -77,9 +83,13 @@ Samus taking off the armor suit and showing up in a bikini. Gaming's first major
 Alis wasn't like that. The title screen immediately showed the girl in the pink dress. She had armor over it, she was carrying
 a sword, but Alis wasn't going to pretend to be something else for your sake. She was allowed to be pretty without being reduced to a sex object.
 
+![Nero's Death](/assets/images/ps1/nero.png)
+
 Then you start the game. Alis's brother Nero is a blue-haired young man who would be the protagonist in almost any other game. Phantasy Star opens with him being
 brutally murdered by the Camineet police force for poking around in the warlock dictator Lassic's affairs. He tells her that Lassic is going to destroy the world.
 And on that, she swears that Nero won't die in vain and strikes out on a quest for revenge.
+
+![Alis's Oath](/assets/images/ps1/alis.png)
 
 For Nero to be shown bluntly wounded, let alone for the game to openly admit that he was dying, was practically unheard of. This was the era where GI Joe went to war without
 ever quite managing to kill anyone. This was the era when Final Fantasy had villains like Garland proclaiming how he would "knock you all down" because we just
@@ -88,6 +98,9 @@ Your brother is dead, anyone in Lassic's police force is a bastard, and if you g
 bit more grit to it, a quest that had a personal element to it. Alis would probably have gone and killed Lassic even if the world wasn't in danger. It was more grounded.
 Then the game started for real.
 
+![The town of Camineet](/assets/images/ps1/town.png)
+![Dungeon 1: the Camineet Warehouse](/assets/images/ps1/dungeon.png)
+
 In town, we find that dungeons weren't top-down affairs like most console RPGs, but were presented in a first-person perspective. And this is where the uniqueness
 can start to rub the wrong way. It's much more difficult to maintain your orientation this way, especially across random battles- and it's the 80s, so you'll
 be fighting a _lot_ of random battles. The encounter rate is through the roof, and you need the money and experience anyway, with hours of grinding throughout. The common
@@ -95,12 +108,16 @@ solution back then was to get out a notebook and start making maps, tile by tile
 pre-made maps online. Much more convenient, but being able to avoid every trap because they're conveniently labeled feels cheap. You're not exploring, you're
 connecting the dots.
 
+![Combat](/assets/images/ps1/combat.png)
+
 Thankfully, that first "dungeon" in town was really just a storage warehouse to get you acquainted with the mechanics before you had to deal with fights. There
 weren't any monsters to speak of to pounce on you and kill you. No, the monsters were just outside of town. The design philosophy of 80s RPGs was that grinding
 to pad out play time was good. Having to work the menus for an hour before it was safe to go to the next town was "difficulty" rather than "busywork" and it was
 a good thing! Look at how hardcore you are for dealing with this repetition. But in a twisted sort of way it worked for this game. Alis is not a trained revolutionary.
 Alis is a teen girl who struck out for revenge and needs to train herself in order to not get killed. No _you're_ rationalizing why it's OK to spend this much time
 playing like this!
+
+![Lassic's Robocops](/assets/images/ps1/robocop.png)
 
 And then came the translation. Games back then couldn't even translate "you won!" into something less garbled than "YOU'RE WINNER". And while Phantasy Star's
 plot wasn't really that complicated, plenty of items and dialogue were garbled in this process. Trying to buy a black market passport would result
@@ -119,6 +136,8 @@ No, not really. They did that on the Playstation 2, actually, but I never tried 
 is exactly the same as it was when the game first came out. But the quality of life improvements bring it up to a
 new experience, with all the bullshit cleaned right out if you play in the new AGES mode.
 
+![A dungeon in the AGES re-release](/assets/images/ps1/ages-dungeon.png)
+
 AGES mode basically functions as a rebalanced ROM hack with a new HUD. The original game's graphics are displayed in a window on the screen. All of the combat rewards
 are boosted up, allowing you to level up and get the money for your new gear in a fraction of the time that it took before. The encounter rate is reduced, so you aren't being 
 interrupted nearly every few seconds of walking around. There's a new HP and MP display so that you don't need to navigate menus to check your party's current and max
@@ -130,10 +149,14 @@ next destination and get leveled up that way. I think I had one instance where I
 point to point, recruiting party members and looting dungeons as fast as I could move. I'd hold off on equipment upgrades that would have been critical in
 the original game, saving my money to leapfrog several upgrades ahead- and I could actually afford to make those upgrades when the time came!
 
+![Myau!](/assets/images/ps1/ages-myau.png)
+
 This really does show why those old-school games felt the need to inflict so much grinding on us. It wouldn't have been great for developers if you could 
 go to Blockbuster, beat the game in a single summer rental, and be done with it. RPGs were more expensive than other games for awhile, and if you could beat them in a few 
 days then it would have been a poor investment. And in the primitive days of the 80s, grinding wasn't seen as busywork yet. 
 But in 2020 it's a non-starter outside of MMOs. Thankfully, the experience is cleaner now.
+
+![A very cool translation of "Manticore" as "MANTICOR"](/assets/images/ps1/ages-manticor.png)
 
 There's even an item guide included that explains exactly what a "FRD. MANTLE" is and makes it easy to quickly see what your whole inventory is about without leaving
 the couch. Not to the same level as a full retranslation, but in some ways I like this better- you get to experience the same strangeness the rest of the fanbase did
