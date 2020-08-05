@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To Be This Good Took AGES: The Rebirth of Phantasy Star I"
-date:   2020-07-10 05:00:00 -0500
+date:   2020-08-04 05:00:00 -0500
 categories: retro
 ---
 
