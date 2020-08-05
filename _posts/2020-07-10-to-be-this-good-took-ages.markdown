@@ -136,7 +136,7 @@ No, not really. They did that on the Playstation 2, actually, but I never tried 
 is exactly the same as it was when the game first came out. But the quality of life improvements bring it up to a
 new experience, with all the bullshit cleaned right out if you play in the new AGES mode.
 
-![A dungeon in the AGES re-release](/assets/images/ps1/ages-dungeon.jpg)
+![A dungeon in the AGES re-release](/assets/images/ps1/ages-dungeon.jp)
 
 AGES mode basically functions as a rebalanced ROM hack with a new HUD. The original game's graphics are displayed in a window on the screen. All of the combat rewards
 are boosted up, allowing you to level up and get the money for your new gear in a fraction of the time that it took before. The encounter rate is reduced, so you aren't being 
