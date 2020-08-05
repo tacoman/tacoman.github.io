@@ -72,6 +72,8 @@ way by the Japanese manual. The ambiguity was preserved
 by an armor suit. Most players who didn't read the manual would have assumed Samus was male. It was only at the end that speedrunners were rewarded with
 Samus taking off the armor suit and showing up in a bikini. Gaming's first major woman protagonist only brought it up for titillation.
 
+![Title Screen](/assets/images/ps1/titlescreen.png)
+
 Alis wasn't like that. The title screen immediately showed the girl in the pink dress. She had armor over it, she was carrying
 a sword, but Alis wasn't going to pretend to be something else for your sake. She was allowed to be pretty without being reduced to a sex object.
 
