@@ -33,7 +33,7 @@ The day I was able to buy a loose Golden Sun cartridge and just pop it into my G
 Full sword and sorcery, end of the world stuff, and nobody over my shoulder on a big screen to remark on how a succubus
 is actually a demon from folklore and that this game is a Japanese plot to make me lose my faith in Christianity.
 
-![Phantasy Star Online](/assets/images/ps1/pso1.png)
+![Phantasy Star Online](/assets/images/ps1/pso1.jpg)
 
 It was in this environment and timeframe that my friend got a copy of Phantasy Star Online for the
 Gamecube. PSO was everything I wanted and couldn't have in a game. It was an action RPG, which meant my reflexes
@@ -136,7 +136,7 @@ No, not really. They did that on the Playstation 2, actually, but I never tried 
 is exactly the same as it was when the game first came out. But the quality of life improvements bring it up to a
 new experience, with all the bullshit cleaned right out if you play in the new AGES mode.
 
-![A dungeon in the AGES re-release](/assets/images/ps1/ages-dungeon.png)
+![A dungeon in the AGES re-release](/assets/images/ps1/ages-dungeon.jpg)
 
 AGES mode basically functions as a rebalanced ROM hack with a new HUD. The original game's graphics are displayed in a window on the screen. All of the combat rewards
 are boosted up, allowing you to level up and get the money for your new gear in a fraction of the time that it took before. The encounter rate is reduced, so you aren't being 
@@ -149,14 +149,14 @@ next destination and get leveled up that way. I think I had one instance where I
 point to point, recruiting party members and looting dungeons as fast as I could move. I'd hold off on equipment upgrades that would have been critical in
 the original game, saving my money to leapfrog several upgrades ahead- and I could actually afford to make those upgrades when the time came!
 
-![Myau!](/assets/images/ps1/ages-myau.png)
+![Myau!](/assets/images/ps1/ages-myau.jpg)
 
 This really does show why those old-school games felt the need to inflict so much grinding on us. It wouldn't have been great for developers if you could 
 go to Blockbuster, beat the game in a single summer rental, and be done with it. RPGs were more expensive than other games for awhile, and if you could beat them in a few 
 days then it would have been a poor investment. And in the primitive days of the 80s, grinding wasn't seen as busywork yet. 
 But in 2020 it's a non-starter outside of MMOs. Thankfully, the experience is cleaner now.
 
-![A very cool translation of "Manticore" as "MANTICOR"](/assets/images/ps1/ages-manticor.png)
+![A very cool translation of "Manticore" as "MANTICOR"](/assets/images/ps1/ages-manticor.jpg)
 
 There's even an item guide included that explains exactly what a "FRD. MANTLE" is and makes it easy to quickly see what your whole inventory is about without leaving
 the couch. Not to the same level as a full retranslation, but in some ways I like this better- you get to experience the same strangeness the rest of the fanbase did
