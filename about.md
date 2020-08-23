@@ -52,23 +52,3 @@ you do and accept me for who I am and I'm happy to have you around.
 
 Obviously every human is different in general, but the above is very much _not_ the case for many or even most enbies in
 my experience. Talk to your friends to find out how they feel and to respect them.
-
-# Social Anxiety and Meeting Me
-
-I guess it's a running theme these days for a lot of new people that they aren't sure how to say hello, or they think
-that I have too much going on to start a deeper conversation, and just let their social anxiety get the better of them. 
-I'm a pretty open person and I'll respond to whoever so much as you aren't being a discriminatory jerk, but some 
-people need an extra push to believe that. So this is a weird section to write, but if you've somehow gotten here 
-without saying hello:
-
-Whichever group you're in, I was you very recently but with _everyone_. I also overanalyzed every introduction, and
-was pretty sure I'd made a terrible first impression on all the people I'm closest with now. I am getting better at this
-thanks to a core of friends who reassure me that my social awkwardness is mostly in my head and not a big issue any more,
-but I do still struggle with it sometimes! But just because it's in your head doesn't mean it's real.
-
-Some people are mistakenly under the impression that they shouldn't say hi because they think I'm cooler than them, which
-is also wrong. Literally anyone can buy a $30 Pac-Man novelty hat and wear it around places. Setting up Guardbook
-was part of a very specific skill set; your skills are also cool and can build things people will love. Becoming the director of
-MiSec Southfield wasn't because I was the most skilled hacker of the group (I am definitely not), but because of
-practicing empathy and working to build people up. If you're suffering from social anxiety, you're probably letting
-your own sense of empathy overwhelm you. You can learn to make it a strength instead of a weakness in time.
