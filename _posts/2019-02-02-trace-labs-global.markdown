@@ -95,7 +95,7 @@ be more cooperative.
 
 ```
 <jtrevner> if you get bored I have a suggestion
-<tacoman> I'm listening
+<taco> I'm listening
 <jtrevner> Help me find my stuff so I can delete it
 <jtrevner> You’ll have no problem find stuff on me
 ```

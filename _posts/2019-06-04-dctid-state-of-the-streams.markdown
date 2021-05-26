@@ -46,4 +46,4 @@ After a major Tweet storm, DCFC has scheduled a number of regular NPSL season ho
 
 Some clubs have followed suit. Grand Rapids streams on YouTube now as well. Ann Arbor is on MyCujoo. FC Indiana still relies on the power of Miko. If you can find a YouTube stream, I'd suggest you use that.
 
-If you run into any issues with this guide or have any other suggestions on how we can make streaming easier this year, please find me on Twitter: @tacoman_x86. We'll keep this post updated as the situation changes or until it becomes unnecessary.
+If you run into any issues with this guide or have any other suggestions on how we can make streaming easier this year, please find me on Twitter: @taco_x86. We'll keep this post updated as the situation changes or until it becomes unnecessary.

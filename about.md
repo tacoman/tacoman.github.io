@@ -6,7 +6,7 @@ permalink: /about/
 
 # Duchy of Taco
 
-Duchy of Taco is the personal blog project of [tacoman](https://twitter.com/tacoman_x86). Topics include InfoSec, especially
+Duchy of Taco is my eclectic personal blog project. Topics include InfoSec, especially
 CTF writeups, retro gaming, software engineering, and Detroit City FC. I'm not trying to maintain a tight focus. If it's 
 interesting to me, I'll write about it.
 
