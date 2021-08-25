@@ -1,0 +1,150 @@
+---
+layout: post
+title:  "RuCTFE 2019 #misec writeup"
+date:   2019-11-23 16:49:29 -0500
+categories: 
+---
+
+Today was the RuCTFE 2019 competition, with my second year playing with the #misec team. Last year's competition was my first
+CTF and one of the first things I ever did with #misec as an org. The bonds I built up with my teammates have turned into great
+friendships at our twice-monthly events, on top of the game itself being a great experience.
+
+This is not going to be a walkthrough post- maybe a few of us can collaborate on that for the #misec blog at a later date.
+Rather, I want to discuss what RuCTFE _is_ and what the game day experience is like so that next year we can have something to
+point people at when they're curious about their first game. I'd also like to discuss some improvements we can make for next year
+to let everyone better contribute.
+
+# Attack / Defense
+
+At Converge Detroit and BSides Detroit, the CTF 313 team runs a Jeopardy-format CTF. A series of challenges are separated into
+different categories ranging from physical lockpicking to hacking wifi passwords to radio exercises. It's provides a little something
+for everybody, with nobody having to directly interact with anyone else to find flags and have a rewarding time.
+
+RuCTFE is an attack/defense CTF, which is a different beast. Every team is given a "vulnimage", which contains a set of
+intentionally-vulnerable web applications. These are written in different languages, ranging from simple Python sites that can be patched
+by most scripters to ELF binaries with no source attached, requiring binary analysis techniques and reverse engineering just to find the issue,
+let alone patch it out. Some vulnerabilities may crash the service, but the real prize is to retrieve the titular flags. A flag is just a string
+that matches a particular regex; they're stored as data inside of the running service, and submitting them wins your team points.
+
+On the other hand, points are lost for every minute that your services aren't running, meaning that crash bugs can cost you. Teams that have
+retrieved your current flag may intentionally crash your services in order to cost you those points and deny other teams the opportunity to retrieve
+flags from you. It's easy for new players to get lost staring at the score board fretting over the issues without knowing what the problem is,
+while others focusing on the code fail to even realize there's a problem. A strong attack/defense team requires a diverse group of people
+and skills communicating just enough to accomplish their goals without distracting each other from deep work.
+
+It's a heady experience. A good CTF can not only work your technical skills, but inspire you to reach further and learn new things before the
+next one. I love a good jeopardy-style CTF like the one at Converge Detroit this year, but attack/defense is what I look forward to the most.
+
+# Pitfalls
+
+It's easy for people to get the wrong idea when they first hear about this format, so it's probably best to dispel some myths before
+you start downloading that Kali Linux image and learning the wrong tools.
+
+## It's app-focused
+
+You're _probably_ not going to pop a shell on somebody's image, own their entire server, and extract the flags for all six apps from one vuln,
+at least not at RuCTFE. The name of the game is app exploitation- convincing the program to give you a flag that it shouldn't. Is it theoretically
+possible that you'll discover some gaping hole that the writers didn't, get a shell inside a Docker container, use a container escape, and then
+take over the rest of the server? Maybe. But if you're reading this article, not likely.
+
+## The vulns aren't generic
+
+So you've heard about all of these fancy red team tools that can find common developer oversights like directory traversal,
+or SQL injection, and you figure that you can pick these up the week of the game and maybe find some flags that way. It's a good
+thought, but a game with 300 teams just running automatic tools off the shelf and getting free flags wouldn't really be very fun for long.
+The apps in RuCTFE are written to have very specific vulnerabilities and errors in the logic that your fresh Kali install won't have in its database.
+If you want a flag, you're going to need to read code, understand what's going on, test the idea, and then write a script to attack everyone else.
+Then to stop others from doing the same, you're going to need to patch the service so it doesn't do that anymore.
+
+This can be done in teams. I'm a professional developer by trade and I'm good at reading through codebases this size relatively quickly. I like to
+dissect an app and give some pointed areas to look at to the red teamers. Somebody else can then take my work, test it out, and then load it into a
+script that attacks all of the other teams, while I focus on patching the vulnerability from our own system. Meanwhile, others can monitor system logs
+and let me know where in the code to look based on the errors they're seeing. Communication is key.
+
+That isn't to say that none of your red team tools are useful. But a good text editor will and a little Python will take you a lot further in this game than
+DirBuster, sqlmap, and Nessus put together, let alone Metasploit.
+
+## It's not exploratory
+
+At least not in terms of the network. The flags really are specifically inside of those apps, inside of one server that's put on the game's VPN. 
+The apps are always put on the same ports, and the IP address of each vulnerable server is always the same. The IP formula is published ahead of time- 
+you can write a script in advance that's designed to loop through all valid IPs for opposing teams.
+
+This means you won't be using nmap to hunt around on someone else's network for what services are up, or manually seeing if their IP range happens to have
+a vulnerable machine online that has files full of flags. If you find somebody's machine running in the VPN it's perfectly legal to attack it with anything
+but a DDOS- but instead of wasting your time making their life miserable, you should be hunting for vulnerabilities and working to keep your machines up.
+(By the way, it's _not_ allowed to attack anyone outside the VPN, both in terms of the game rules and probably in terms of your local laws. But if they
+discuss their ideas in a public chat channel that you find and infiltrate, you're definitely allowed to just sit there and collect their work for free. We did
+that in 2018 and got a lot of flags that way.)
+
+# The 2019 game
+
+Brad McMahon (@nullspace) and Gil Esparza (@Gmexican14) set up our network in the days leading up the event, using my employer UberEther's Michigan office as
+our central location once again. (Thanks for the space and all the food, Matt! That strudel was exactly what I needed when my blood sugar crashed.) 
+Without their hard work none of this could have happened- they spent extra time setting up a WAF as an
+experiment for the year, configured a safe network NAT'd from malicious activity and ensured that the game images ran correctly on hardware. I'm not sure what time
+Brad was up- when I arrived at the office before 4:30AM, he was awake and waiting for the game image to download so he could load it in. Be nice to your infrastructure
+people- they're just as frustrated as you when stuff goes down and they would also rather be playing the game rather than debugging why the bandwidth just dropped.
+
+Once the image was ready to decrypt, I imported it into Virtualbox off the network, booted into single user, changed the password, and then rebooted. When it came
+back up, I used sshfs to mount its file system to my main development machine and copied all of the source code out for people who wanted to read it without
+running a full Docker image. Brad ensured that the main image was running on a server and dealt with network issues as they happened.
+
+We used an smb share to store the code and any other files that people needed. Communications were done outside of our usual public Slack- while #misec
+as a community is as inclusive as possible, this isn't really compatible with letting any random person drop into the game in the middle of the day without
+anyone knowing them. For the most part, though, people were able to work from their own machines, reading copies of the code and testing theories with scripts.
+
+I started off relatively strong, diving into a couple codebases while using headphones to isolate myself from the general noise of the room, dumping my thoughts
+into chat for others to run with. After a couple hours of this, I found a challenge involving opening up a C# DLL and reading the code out from that. I didn't
+have a Windows machine and the available tools for this weren't cooperating with my Linux machine, so I pulled aside one of our Windows users and gave him a crash
+course in how the tools worked. At the same time, someone working remotely began looking into the machine from a red team perspective, so I went back and forth with
+him on Discord. This slowly gained an audience of a couple other people wanting to learn, and at the same time I had to keep tabs on the work being done
+to develop scripts with my findings from previous codebases.
+
+One of the best parts of a CTF is giving people the opportunity to come into contact with new ideas and show them tools they'd never have realized existed; this
+was where that part of the game shone through, and I think everyone involved benefited from it. But after a little while I was exhausted from it and started to peter
+out. Holding one codebase in your head can be hard enough- holding several, while talking to 7 people concurrently, can't last for long. After an hour or so, I gently
+dismissed everyone from my desk and slowly tried to dive into the next codebase, but the juices weren't flowing anymore. The weird sleep schedule of a 5AM start time,
+the constant shifts between purely technical dives and playing the teaching role, it all added up. I slowly started to talk to others in chat, monitor how
+existing work was going and giving advice where I could, and mulling over how prep work could get us in better shape for next year.
+
+All in all, I think 2019 was successful, but not without its frustrations. We weaponized a vulnerability and stole flags without intercepting another team's
+communications, which isn't something I think we did last year. We caught denial of service vulnerabilities used on us and patched them out. But our internal
+communication and our knowledge of who was doing what wasn't as strong as I might have liked. I had tabs on about half the room, but I have no idea what the others
+were doing or if they knew what I was up to. Could work have been duplicated? Could a couple of us have finished piecing together a puzzle that each only
+had half of? I'm not sure. Doing deep work requires a certain level of being siloed and focusing on what's in front of you, but I think we could have done more.
+
+# A proposal for 2020
+
+Last year after RuCTFE, it was announced that #misec was planning to try to schedule a CTF game every month to give ourselves more practice for the next year's
+big game. There was talk of writing scripts or practicing certain skills for the next game. Some of this was done- we did play a few more CTFs, but nothing like
+an extra every month. I looked into analyzing binaries, but never went deep enough to make a difference in the next game. So in what's probably a proud tradition
+of saying "this is what it will be like next time", I'm going to propose how we can fix some of the issues from 2019 and make a game that lets people play at a
+higher level while still being inclusive of new players- and we'll see what actually happens.
+
+Basically put, I want to start work on provisioning all of this network infrastructure AWS or GCP next year and then have that infrastructure be VPN'd into
+the game's network, with all players VPNing into said infrastructure. So far we've put the onus on a couple people to stay late and burn up their own sleep
+schedules assembling the infrastructure from scratch on the week of every year. It makes the competition itself harder for them. Maintaining full Internet access
+for 18 people on-site as well as handling all inbound game traffic puts more of a strain on a network that normally doesn't see more than 6 people working
+at a slightly less frenetic pace. We have additional feature requests that people want to try for the game, like a WAF, that only adds more strain to the network
+crew. We're never going to play more attack/defense CTFs in a year with all of these factors- it's asking a lot to schedule the one.
+
+I want to learn DevOps, and this is a good concrete project to put those skills towards. We have other people in the #misec community who are already experienced with
+it and could help out. Together we can steadily build up a repeatable infrastructure that we can provision the exact same way every year. Once we have this,
+we can tweak it as needed for other CTFs we want to try. This will give us more opportunities to play, which means we can be bolder about trying new things and
+organizing our team in different ways.
+
+I'd also like to get logging centralized and made easily available to anyone who wants to see what errors are coming from the apps. A regular refrain from people
+who are new is that they want to participate but aren't sure what to do, especially if they're students or are new to the field and don't have the skill sets
+of some of the seasoned veterans. It's nice to be able to show them some code and give them a brief intro to the ideas, but it can also be draining on older members
+while leaving the newer members feeling like they weren't able to contribute directly. SOC duty is my proposed fix for this. Watch the logs. See an error come up?
+Drop it in the appropriate app's chat so the developers know that something's coming up. Alert came up for a flag that got captured? Read the request that made it
+go out and you have a concrete example of something that's affecting game state.
+
+We wanted some variation of the logging to go with the WAF this year, but it didn't pan out, and we didn't think to specifically suggest newbies take up log duty.
+We had significant uptime issues with the apps due to teams finding DOS vulns to use on us, and I think this would be a great way for new members to make a big
+difference while working directly with the team and getting exposure to what's going on. In some cases they might also need to manually restart the vulnerable app
+while developers work on a patch.
+
+All in all, I think 2019 was a growth year for #misec in this competition. We had a lot of new faces who seem eager to learn more and make a bigger difference next
+time, and we have a path forward to really step up our game for next time. Now all that's left is to take this new potential and execute on it.
