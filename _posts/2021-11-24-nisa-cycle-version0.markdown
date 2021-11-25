@@ -87,5 +87,5 @@ Version zero's vision of inter-league cooperation had already been battered by t
 
 Additional reading and sources:
 * [Plans For New US Pro Third Division Soccer League Announced (via the Internet Archive)](http://web.archive.org/web/20170817083434/http://www.nisaofficial.com/2017/06/06/plans-for-new-us-pro-third-division-soccer-league-announced/)
-* [EXCLUSIVE: The National Independent Soccer Association (NISA) – A New Division III Professional Soccer League Expects to Launch in 2018 (via Midfield Press)](http://midfieldpress.com/2017/06/06/exclusive-the-national-independent-soccer-association-nisa-a-new-division-iii-professional-soccer-league-expects-to-launch-in-2018/)
+* [EXCLUSIVE: The National Independent Soccer Association (NISA) – A New Division III Professional Soccer League Expects to Launch in 2018 (Chris Kivlehan, via Midfield Press)](http://midfieldpress.com/2017/06/06/exclusive-the-national-independent-soccer-association-nisa-a-new-division-iii-professional-soccer-league-expects-to-launch-in-2018/)
 * [With New Leadership In Place, NISA Breaks Its Silence](https://www.nisaofficial.com/news/2019/05/28/with-new-leadership-in-place-nisa-breaks-its-silence)
