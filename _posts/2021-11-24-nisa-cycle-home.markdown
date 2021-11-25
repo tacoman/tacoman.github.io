@@ -23,8 +23,8 @@ If we went to a franchise league but maintained the soul of the club- as I belie
 Most of us would, and most of us will see this next chapter of the journey through.
 
 But it's not the whole picture, either.
-If you want to understand how we got here- how the culture shifted to allow NGS to be OK with the move to USL, or how DCFC was finally pushed into a league we spent years out of- you have to return to 2017.
-You have to return to the original NISA proposals quickly fading from memory, to the _two_ incarnations of NPSL Pro failed, and then finally live through the two years we experienced in this NISA.
+If you want to understand how we got here- how the culture shifted to allow NGS to be OK with the move to USL, or how DCFC was finally pushed into a league we spent years trying to stay out of- you have to return to 2017.
+You have to return to the original NISA proposals quickly fading from memory, to the _two_ incarnations of NPSL Pro failed, and then finally live through the two years we experienced in NISA.
 League failures and cancellations combined with the COVID-19 pandemic all took their toll, until finally the unacceptable became the inevitable.
 
 This blog series is my perspective on how we got here, including my own interactions with the people running the league.
