@@ -34,3 +34,6 @@ This won't be all-inclusive of everything that happened while we were in there, 
 The focus is going to be on the teams and individuals who caused the biggest cracks until we finally had to get out.
 
 This is the NISA Cycle.
+
+* [Chapter One: Version Zero](/nisa/dcfc/2021/11/24/nisa-cycle-version0.html)
+* [Chapter Two: NPSL Pro](/nisa/dcfc/2021/11/24/nisa-cycle-npsl-pro.html)
