@@ -37,3 +37,4 @@ This is the NISA Cycle.
 
 * [Chapter One: Version Zero](/nisa/dcfc/2021/11/24/nisa-cycle-version0.html)
 * [Chapter Two: NPSL Pro](/nisa/dcfc/2021/11/24/nisa-cycle-npsl-pro.html)
+* [Chapter Three: Rebirth](/nisa/dcfc/2021/11/25/nisa-cycle-npsl-rebirth.html)
