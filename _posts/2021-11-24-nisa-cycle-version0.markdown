@@ -15,8 +15,8 @@ Staying in the amateur leagues isn't a realistic option forever, though.
 Detroit is too large of a market to be ignored by the professional leagues forever- leagues who are willing to bet that a slick stadium deal and a well-paid squad would lure the City faithful away.
 Years of MLS bid rumors have reached their apex, with stadium renderings that used images of NGS and our supporters to prop up the fantasy that if the city spent money to hand over land to the league, that a soccer-specific stadium would arrive.
 
-The professional league closest to DCFC's values is the National American Soccer League, or NASL.
-A division 2 league that gave more independence to its clubs and promised that if given a chance, it would eventually institue promotion and relegation, the holy grail for soccer reformers.
+The professional league closest to DCFC's values is the North American Soccer League, or NASL.
+A division 2 league that gave more independence to its clubs and promised that if given a chance, it would eventually institute promotion and relegation, the holy grail for soccer reformers.
 Thanks to the US Soccer Federation's (USSF) Professional League Standards (PLS), however, the NASL is not currently an option.
 The PLS mandates that owners must have a minimum of 8 figures of net worth to operate a professional team- even more in division 2.
 Beyond this, the NASL is infamously unstable, and many fear that moving into it at the wrong time might materially damage the club even if the money was good.
