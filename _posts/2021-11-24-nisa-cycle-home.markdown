@@ -38,3 +38,4 @@ This is the NISA Cycle.
 * [Chapter One: Version Zero](/nisa/dcfc/2021/11/24/nisa-cycle-version0.html)
 * [Chapter Two: NPSL Pro](/nisa/dcfc/2021/11/24/nisa-cycle-npsl-pro.html)
 * [Chapter Three: Rebirth](/nisa/dcfc/2021/11/25/nisa-cycle-rebirth.html)
+* [Chapter Four: A Perfect Storm][/nisa/dcfc/2021/11/26/nisa-cycle-a-perfect-storm.html]
