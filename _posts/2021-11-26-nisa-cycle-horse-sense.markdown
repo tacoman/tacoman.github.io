@@ -198,7 +198,7 @@ At the time of this writing, Dublin County's fate is unknown- they appear to be 
 The last thing Sibrena had told me about in advance was a coming rebrand.
 Many of us guessed that the Teamsters had been sent a cease & desist by the Teamsters union, and that they would ue this as an opportunity to get rid of their ugly horse logo and choose a more inspiring name. So, what got released on January 1st, 2021?
 
-![Something worse.](/assets/images/teamsters-logo.png)
+![Something worse.](/assets/images/teamsterz-logo.png)
 
 I AM BEGGING YOU TO PUT SOME EFFORT INTO SOMETHING FOR ONCE IN YOUR LIFE.
 
@@ -221,7 +221,7 @@ The team had to register @NJ_Teamsterz_FC instead.
 What I didn't expect was that when they updated the website, they redirected the Twitter plugin to my new @njteamsterzfc account.
 What would you do?
 
-![Something worse.](/assets/images/control.png)
+![Post evil things, of course.](/assets/images/control.png)
 
 Remember when I was the official Twitter for the Philly Fury for a day?
 I didn't expect that to ever happen again, let alone like this.
