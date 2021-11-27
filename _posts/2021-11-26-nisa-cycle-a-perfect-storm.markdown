@@ -114,7 +114,7 @@ We expected teams to be professionally operated, backed by the strong league off
 The pandemic would certainly pose its challenges, and we knew that- but it wouldn't excuse everything.
 
 The next four installments of this series will focus on individual NISA clubs and their impacts on the league's optics and operations.
-We'll start with the most infamous club that received approval as a professional club before the league regretfully retracted their membership: the New Jersey Teamsterz FC.
+We'll start with the most infamous club that received approval as a professional club before the league regretfully retracted their membership: the New Jersey Teamsters FC.
 
 
 Additional reading and sources:
