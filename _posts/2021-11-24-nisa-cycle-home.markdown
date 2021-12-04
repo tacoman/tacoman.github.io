@@ -42,3 +42,4 @@ This is the NISA Cycle.
 * [Chapter Five: Horse Sense](/nisa/dcfc/2021/11/27/nisa-cycle-horse-sense.html)
 * [Chapter Six: Batavia](/nisa/dcfc/2021/11/29/nisa-cycle-batavia.html)
 * [Chapter Seven: The Veto](/nisa/dcfc/2021/12/03/nisa-cycle-the-veto.html)
+* [Chapter Eight: The Fake in Romeo](/nisa/dcfc/2021/12/04/nisa-cycle-the-fake-in-romeo.html)
