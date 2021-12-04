@@ -189,6 +189,7 @@ NISA also had its hand in trying to help unify the amateur pyramid, create a new
 The plans were ambitious- but they might have also been what stretched NISA almost to its breaking point in the fall of 2021.
 
 
+Additional reading and sources:
 * [Steven Juncaj's entry on the Michigan Stars FC roster](https://www.michiganstarsfc.com/roster/steven-juncaj)
 * [Reddit: now-deleted Dutchies tweet about threats from Juncaj](https://www.reddit.com/r/NISA/comments/ize9bw/the_dutchies_we_are_hearing_after_full_time/)
 * [A Crisis of Conscience](https://www.protagonistsoccer.com/coverage-blog/nisa-antiracist)
