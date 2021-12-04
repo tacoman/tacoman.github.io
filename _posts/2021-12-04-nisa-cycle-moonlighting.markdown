@@ -148,7 +148,7 @@ It's not clear why they made that choice.
 Attendance was very low for a new team in that saturated market, picking up slightly when Charlotte Independence owner Dan DiMicco's racist conspiracy theories drove away his existing supporter base.
 Sure, having another team helped keep NISA above the PLS requirement, but why Charlotte?
 NISA's habit of splicing the haves rather than delivering to the have-nots was continuing.
-They would talk of how there were over 100 metor areas with no pro soccer, then target their efforts at the places that already had options for pro soccer.
+They would talk of how there were over 100 metro areas with no pro soccer, then target their efforts at the places that already had options for pro soccer.
 
 Stumptown 2.0 performed reasonably well for an expansion side, and rumor has it that they're very close to selling the team to an interested owner.
 In fact, I think the rumor is that for the past six months they've been very close to selling the team to an interested owner.
