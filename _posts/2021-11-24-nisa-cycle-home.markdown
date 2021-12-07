@@ -44,3 +44,4 @@ This is the NISA Cycle.
 * [Chapter Seven: The Veto](/nisa/dcfc/2021/12/03/nisa-cycle-the-veto.html)
 * [Chapter Eight: The Fake in Romeo](/nisa/dcfc/2021/12/04/nisa-cycle-the-fake-in-romeo.html)
 * [Chapter Nine: Moonlighting](/nisa/dcfc/2021/12/04/nisa-cycle-moonlighting.html)
+* [Chapter Ten: The Final Spiral](/nisa/dcfc/2021/12/05/nisa-cycle-the-final-spiral.html)
