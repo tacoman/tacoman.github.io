@@ -156,7 +156,7 @@ If we win, we'll clinch the fall trophy and add one more to the pile.
 Roger talks to the referees and asks the same question we've been asking for nearly two months: paid yet?
 No.
 
-The "NISA: PAY THE DAMNED REFEREES" banner flies once more- but this time, NISA has officials present for what everyone knows will be another trophy presentation, and they're not happy to see it.
+The "NISA: PAY THE DAMNED REFEREES" banner flies once more- but this time, NISA had instructed Detroit City to demand that if it showed up again, that they take it down.
 The league sent over Detroit City FC CEO Sean Mann as their messenger to demand that the banner be taken down- an action that he stressed was not at the club's behest, but at NISA's.
 The "independent" league that valued both club and supporter autonomy had finally founds its red line: no direct criticisms of the league would be allowed.
 
