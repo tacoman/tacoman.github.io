@@ -12,7 +12,7 @@ I'd already started to move to Mastodon ahead of the buyout not because of Elon,
 
 If you're reading this you're probably less excited for Twitter burning than I am.
 Somebody told you that Mastodon is the new Twitter replacement and now you feel obligated to check it out.
-They're selling you this vision of a stictly better 1:1 replacement, but to you, it looks like a confusing mess.
+They're selling you this vision of a strictly better 1:1 replacement, but to you, it looks like a confusing mess.
 The similarities to Twitter only make the differences more confusing.
 Why can't it be simple and just let us post stupid GIFs again without Elon getting in the way?
 
